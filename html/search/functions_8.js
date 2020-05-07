@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['initstate_529',['InitState',['../class_lua_1_1_random.html#ac69b6f407406ae02a7595403097ec8a8',1,'Lua::Random']]],
+  ['inverse_530',['Inverse',['../class_lua_1_1_quaternion.html#a324d82496815f927ebcaa21032843276',1,'Lua::Quaternion']]],
+  ['inverselerp_531',['InverseLerp',['../class_lua_1_1_mathf.html#a4344694ab95eb4dc13046b0798a88ff3',1,'Lua::Mathf']]],
+  ['inversetransformdirection_532',['InverseTransformDirection',['../class_lua_1_1_transform.html#a7bf8b1d272b1d893a606c5f38770c433',1,'Lua.Transform.InverseTransformDirection(Vector3 direction)'],['../class_lua_1_1_transform.html#a4983e88de730e650bb632f63d043035f',1,'Lua.Transform.InverseTransformDirection(float x, float y, float z)']]],
+  ['inversetransformpoint_533',['InverseTransformPoint',['../class_lua_1_1_transform.html#aa32269bd79e72646057908fee2cb7f9e',1,'Lua.Transform.InverseTransformPoint(Vector3 direction)'],['../class_lua_1_1_transform.html#af07e05c728e517c260e6cf8c1b442adc',1,'Lua.Transform.InverseTransformPoint(float x, float y, float z)']]],
+  ['inversetransformvector_534',['InverseTransformVector',['../class_lua_1_1_transform.html#ae6bb74c5b90a6f8db4c436a56f24f8eb',1,'Lua.Transform.InverseTransformVector(Vector3 direction)'],['../class_lua_1_1_transform.html#a8922d01029a19d826eeb4d6f8f22ce06',1,'Lua.Transform.InverseTransformVector(float x, float y, float z)']]],
+  ['isactionactive_535',['IsActionActive',['../class_lua_1_1_a_i.html#aa05b26304b734cfe6f5a220bb54d9bc7',1,'Lua::AI']]],
+  ['isaienabled_536',['IsAIEnabled',['../class_lua_1_1_a_i.html#afbbbf8be061465aba93a7b1c73402ae4',1,'Lua::AI']]],
+  ['isbehavioractive_537',['IsBehaviorActive',['../class_lua_1_1_a_i.html#a2d682616c9d7a8fd7ea045906a716e02',1,'Lua::AI']]],
+  ['ischildof_538',['IsChildOf',['../class_lua_1_1_transform.html#ad11ff475738f907fdbdc4009c81ee09e',1,'Lua::Transform']]],
+  ['iscompleted_539',['IsCompleted',['../class_lua_1_1_animation.html#afd07956e9f1dc6f551d8ca036493a646',1,'Lua::Animation']]],
+  ['iscrushed_540',['IsCrushed',['../class_lua_1_1_entity.html#a4b4bb9870796b854c0d5666c9cba9375',1,'Lua::Entity']]],
+  ['isdead_541',['IsDead',['../class_lua_1_1_entity.html#a6357c0a54e9aa79beb928d079b42aa76',1,'Lua::Entity']]],
+  ['isgiantess_542',['isGiantess',['../class_lua_1_1_entity.html#af72e042e1fd05c66abceebb49ec2caf4',1,'Lua::Entity']]],
+  ['ishumanoid_543',['isHumanoid',['../class_lua_1_1_entity.html#a27a8d5461e9d6890e085b06e2d00f6bd',1,'Lua::Entity']]],
+  ['isinpose_544',['IsInPose',['../class_lua_1_1_animation.html#aede5bb0940e1daed76c816ba30dac6f2',1,'Lua::Animation']]],
+  ['isintransition_545',['IsInTransition',['../class_lua_1_1_animation.html#a6f6e8dabc438a05a0338f69a25a61d71',1,'Lua::Animation']]],
+  ['ismicro_546',['isMicro',['../class_lua_1_1_entity.html#a5eaa128b6b8cf4aeb7f219edd030d61e',1,'Lua::Entity']]],
+  ['isplayer_547',['isPlayer',['../class_lua_1_1_entity.html#af7b9099c16b719f42e4fdfd82661d259',1,'Lua::Entity']]],
+  ['ispoweroftwo_548',['IsPowerOfTwo',['../class_lua_1_1_mathf.html#a44aca0d32ffbf1de0925f05b65d94032',1,'Lua::Mathf']]],
+  ['isstuck_549',['IsStuck',['../class_lua_1_1_entity.html#ab25d357d357ab0cf7ff9a2e81aa9cb08',1,'Lua::Entity']]],
+  ['istargettable_550',['IsTargettable',['../class_lua_1_1_entity.html#aa8688dacb32db168b780597d8f11622b',1,'Lua::Entity']]]
+];
